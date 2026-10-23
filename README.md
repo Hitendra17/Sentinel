@@ -1,5 +1,4 @@
 # Sentinel
-
 Sentinel is a local-first, bounded security research scanner for systems the operator owns or is explicitly authorized to assess. It collects a small amount of HTTP evidence and runs passive checks. It is an educational MVP, not a penetration-testing replacement, and does not prove a system is secure.
 
 ## What it does
