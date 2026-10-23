@@ -1,0 +1,10 @@
+{
+  "description": "Local training fixture only",
+  "origins": ["http://127.0.0.1:8000"],
+  "allow_private": true,
+  "expected_https": false,
+  "max_requests": 12,
+  "max_response_bytes": 1000000,
+  "timeout_seconds": 5,
+  "max_redirects": 3
+}

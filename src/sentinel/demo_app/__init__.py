@@ -1,0 +1,1 @@
+"""Loopback-only training fixture."""

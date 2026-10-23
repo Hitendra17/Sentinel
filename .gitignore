@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+artifacts/
+outputs/
+scope.json
+.pytest_cache/
+*.py[cod]
+*.egg-info/

@@ -1,0 +1,1 @@
+"""Optional planning extension point."""
